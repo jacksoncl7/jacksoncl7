@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacksoncl7
-- 👀 I’m interested in Web, DevOps, Agile, Sports and Education
+- 👀 I’m interested in Web, DevOps, Agile, Music, Comics, Sports and Education
 
 <!---
 jacksoncl7/jacksoncl7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
